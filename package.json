@@ -1,0 +1,25 @@
+{
+  "name": "gitbook-plugin-es4j-doc",
+  "version": "1.0.1",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "engines": {
+    "gitbook": "*"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/eventsourcing/gitbook-plugin-es4j-doc.git"
+  },
+  "author": "",
+  "license": "MPL-2.0",
+  "bugs": {
+    "url": "https://github.com/eventsourcing/gitbook-plugin-es4j-doc/issues"
+  },
+  "homepage": "https://github.com/eventsourcing/gitbook-plugin-es4j-doc#readme",
+  "dependencies": {
+    "sync-request": "^3.0.1"
+  }
+}
